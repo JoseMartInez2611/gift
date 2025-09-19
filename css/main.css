@@ -1620,6 +1620,7 @@ h1 {
   /* Estilos para pantallas pequeñas */
   h1 {
       font-size: 1.5em;
+      margin-top:500px
   }
 }
 
